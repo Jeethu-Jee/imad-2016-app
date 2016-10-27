@@ -19,3 +19,7 @@ body {
 .img-large {
     height: 500px;
 }
+
+.img-circle {
+    border-radius: 50%;
+}
