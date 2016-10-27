@@ -1,23 +1,21 @@
 body {
-    background:grey;
-    font-family: sans-serif;
-    margin-top: 60px;
-}
-
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-resize {
-    height: 80px;
-    width: 80px;
-}
-
+     font-family: sans-serif;
+     background-color: lightgrey;
+     margin-top: 75px;
+ }
+ 
+ .center {
+     text-align: center;
+ }
+ 
+ .text-big {
+     font-size: 300%;
+ }
+ 
+ .bold {
+     font-weight: bold;
+ }
+ 
+ .img-medium {
+     height: 200px;
+ }
