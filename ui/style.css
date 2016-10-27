@@ -1,8 +1,10 @@
-body {
-     font-family: sans-serif;
-     background-color:lightgrey;
-     margin-top: 75px;
- }
+.body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+    margin-top: 75px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
  
  .center {
      text-align: center;
