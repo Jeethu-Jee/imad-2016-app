@@ -23,3 +23,10 @@ body {
 .img-circle {
     border-radius: 50%;
 }
+div {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
