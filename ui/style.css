@@ -19,3 +19,7 @@ body {
  .img-medium {
      height: 1500px;
  }
+ 
+ .img-circle {
+    border-radius: 50%;
+}
