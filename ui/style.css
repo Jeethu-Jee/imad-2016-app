@@ -22,12 +22,3 @@ body {
  .img-medium {
      height: 200px;
  }
- 
- body {
-    font-family: sans-serif;
-    background-color: #423d3d;
-    margin-top: 75px;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-size: smaller;
- }
