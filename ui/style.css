@@ -9,7 +9,7 @@ body {
  }
  
  .text-big {
-     font-size: 300px;
+     font-size: 300%;
  }
  
  .bold {
@@ -17,9 +17,5 @@ body {
  }
  
  .img-medium {
-     height: 1500px;
+     height: 200px;
  }
- 
- .img-circle {
-    border-radius: 50px;
-}
