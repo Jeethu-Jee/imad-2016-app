@@ -23,6 +23,9 @@
     width: 1000px;
  }
  
- .link {
-     font-size:100px;
- }
+ a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+    font-size:90%;
+    }
